@@ -20,7 +20,7 @@
 
 ## 🧰 Tech Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,react,postgres,sqlite,redis,docker,linux,git,github,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,react,postgres,sqlite,redis,docker,linux,git,github,postman,blender,C,Rust&perline=8" />
 </div>
 
 ---
