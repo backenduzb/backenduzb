@@ -1,1 +1,63 @@
-Salom
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&center=true&vCenter=true&width=700&lines=Salom%2C+men+Javohir+%F0%9F%91%8B;Backend+Developer+%28Python%2FDjango%2FFastAPI%29;Telegram+Bots+%7C+REST+API+%7C+AI+Qiziqishlar" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6" alt="profile views"/>
+
+</div>
+
+---
+
+## 🚀 Men haqimda
+- 🧠 **Backend**: Python, Django, FastAPI  
+- 🤖 **Telegram botlar**: Aiogram, DB bilan integratsiya  
+- 🧩 **AI/NLP**: Uzbek & English text bilan ishlashga qiziqaman  
+- 🛠️ “Ishlaydigan kod”ni yoqtiraman: demo, test, docs ✅
+
+---
+
+## 🧰 Tech Stack
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,react,postgres,sqlite,redis,docker,linux,git,github,postman&perline=8" />
+</div>
+
+---
+
+## 📌 Pinned loyihalar (o‘zingiznikilarni link qilib qo‘ying)
+- 🌙 **DarkCoding.uz** — web platforma / backend (Django)  
+- 🤖 **Telegram Order Bot** — buyurtma oqimi + admin panel  
+- 🧠 **NLP mini-lab** — uz/en text tajribalar + API endpoint  
+
+> 🔧 Pinned qilish: GitHub profile → “Customize your pins” → repolarni tanlang.
+
+---
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent" />
+</div>
+
+---
+
+## 🧪 Hozir nimalar ustida ishlayapman
+- ✅ FastAPI + PostgreSQL + JWT auth
+- ✅ Telegram bot (Aiogram) + order flow
+- ✅ React/TS bilan frontend basics (integratsiya uchun)
+
+---
+
+<div align="left">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@YOUR_TG-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TG)
+[![YouTube](https://img.shields.io/badge/YouTube-Backend.UZB-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-yourmail%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+
+</div>
+
+---
