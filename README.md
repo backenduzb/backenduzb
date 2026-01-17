@@ -47,8 +47,8 @@
 
 <div align="left">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@YOUR_TG-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/python_dev_junior)
-[![Email](https://img.shields.io/badge/Email-yourmail%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javohirdevp@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@python_dev_junior-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/python_dev_junior)
+[![Email](https://img.shields.io/badge/Email-jabohirdevp%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javohirdevp@gmail.com)
 
 </div>
 
