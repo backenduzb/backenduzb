@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&center=true&vCenter=true&width=700&lines=Salom%2C+men+Javohir+%F0%9F%91%8B;Backend+Developer+%28Python%2FDjango%2FFastAPI%29;Telegram+Bots+%7C+REST+API+%7C+AI+Qiziqishlar" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&center=true&vCenter=true&width=700&lines=Salom%2C+men+Javohir+%F0%9F%91%8B;Fullstack+Developer+%28Python%2FDjango%2FFastAPI%29;Telegram+Bots+%7C+REST+API+%7C+AI+Qiziqishlar" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=backenduzb&style=for-the-badge&color=0e75b6" alt="profile views"/>
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ## 🧰 Tech Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,react,postgres,sqlite,redis,docker,linux,git,github,postman,blender,C,Rust&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,react,postgres,sqlite,redis,docker,linux,git,github,postman,blender,c,Rust,&perline=8" />
 </div>
 
 ---
@@ -45,18 +45,10 @@
 
 ---
 
-## 🧪 Hozir nimalar ustida ishlayapman
-- ✅ FastAPI + PostgreSQL + JWT auth
-- ✅ Telegram bot (Aiogram) + order flow
-- ✅ React/TS bilan frontend basics (integratsiya uchun)
-
----
-
 <div align="left">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@YOUR_TG-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TG)
-[![YouTube](https://img.shields.io/badge/YouTube-Backend.UZB-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-yourmail%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@YOUR_TG-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/python_dev_junior)
+[![Email](https://img.shields.io/badge/Email-yourmail%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javohirdevp@gmail.com)
 
 </div>
 
