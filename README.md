@@ -35,12 +35,12 @@
 ---
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=backenduzb&show_icons=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backenduzb&layout=compact&theme=transparent" />
 </div>
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent" />
+  <img height="180" src="https://streak-stats.demolab.com?user=backenduzb&theme=transparent" />
 </div>
 
 ---
