@@ -30,17 +30,15 @@
 - 🤖 **Telegram Order Bot** — buyurtma oqimi + admin panel  
 - 🧠 **NLP mini-lab** — uz/en text tajribalar + API endpoint  
 
-> 🔧 Pinned qilish: GitHub profile → “Customize your pins” → repolarni tanlang.
-
 ---
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=backenduzb&show_icons=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backenduzb&layout=compact&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=backenduzb&show_icons=true&theme=dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backenduzb&layout=compact&theme=dark" />
 </div>
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=backenduzb&theme=transparent" />
+  <img height="180" src="https://streak-stats.demolab.com?user=backenduzb&theme=dark" />
 </div>
 
 ---
