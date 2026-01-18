@@ -25,13 +25,6 @@
 
 ---
 
-## 📌 Pinned loyihalar (o‘zingiznikilarni link qilib qo‘ying)
-- 🌙 **DarkCoding.uz** — web platforma / backend (Django)  
-- 🤖 **Telegram Order Bot** — buyurtma oqimi + admin panel  
-- 🧠 **NLP mini-lab** — uz/en text tajribalar + API endpoint  
-
----
-
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=backenduzb&show_icons=true&theme=dark" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backenduzb&layout=compact&theme=dark" />
