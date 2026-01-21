@@ -5,7 +5,7 @@
 
 </div>
 
-##
+---
 
 ## Tech Stack
 <div align="center">
@@ -19,6 +19,8 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backenduzb&layout=compact&theme=dark" />
 </div>
 
+<br/>
+
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-@python_dev_junior-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/python_dev_junior)
@@ -26,6 +28,7 @@
 
 </div>
 
+---
 <div align="right">
 
 <img src="https://komarev.com/ghpvc/?username=backenduzb&style=for-the-badge&color=0e75b6" alt="profile views"/>
