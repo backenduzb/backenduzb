@@ -5,14 +5,14 @@
 
 </div>
 
----
+<br/>
 
 ## Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,react,postgres,sqlite,redis,docker,linux,git,github,postman,blender,c,rust,react,nextjs,godot,discord,arch,dotnet,vite,tailwind,arduino&perline=13" />
 </div>
 
----
+<br/>
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=backenduzb&show_icons=true&theme=dark" />
@@ -28,7 +28,7 @@
 
 </div>
 
----
+##
 <div align="right">
 
 <img src="https://komarev.com/ghpvc/?username=backenduzb&style=for-the-badge&color=0e75b6" alt="profile views"/>
