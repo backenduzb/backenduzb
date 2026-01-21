@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&center=true&vCenter=true&width=700&lines=Salom%2C+men+Javohir+%F0%9F%91%8B;Fullstack+Developer+%28Python%2FDjango%2FFastAPI%29;Telegram+Bots+%7C+REST+API+%7C+AI+Qiziqishlar" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&center=true&vCenter=true&width=700&lines=Hi%2C+you'r+Welcome+%F0%9F%91%8B;Small+Softwere+Developer;Robotics+ingener" alt="Typing SVG" />
 
 
 </div>
@@ -9,7 +9,7 @@
 
 ## Tech Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,react,postgres,sqlite,redis,docker,linux,git,github,postman,blender,c,Rust,&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,react,postgres,sqlite,redis,docker,linux,git,github,postman,blender,c,rust,react,nextjs,godot,discord,arch,dotnet,vite,tailwind,arduino&perline=13" />
 </div>
 
 ---
